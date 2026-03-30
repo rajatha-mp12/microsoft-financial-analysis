@@ -1,4 +1,3 @@
-# microsoft-financial-analysis
 # 📊 Microsoft Financial Analysis Dashboard
 
 ## 📌 Description
